@@ -317,7 +317,7 @@ footer{
 .logos{
     display: flex;
     align-items: center;
-    width: 40rem;
+    width: 35rem;
     justify-content: space-between;
 }
 
